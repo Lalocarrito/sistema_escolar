@@ -2,7 +2,7 @@
         const apellidosMexico = [
         "Hernández", "García", "Martínez", "López", "González",
         "Pérez", "Rodríguez", "Sánchez", "Ramírez", "Cruz",
-        "Flores", "Gómez", "Mor   ales", "Vázquez", "Jiménez",
+        "Flores", "Gómez", "Morales", "Vázquez", "Jiménez",
         "Reyes", "Díaz", "Torres", "Gutiérrez", "Ruiz",
         "Mendoza", "Aguilar", "Ortiz", "Moreno", "Castillo",
         "Romero", "Álvarez", "Méndez", "Chávez", "Rivera",
