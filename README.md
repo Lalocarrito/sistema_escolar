@@ -20,7 +20,6 @@ contenido listo para descargar o pegar en tu base de datos.
 - [Requisitos](#requisitos)
 - [Uso](#uso)
 - [Esquema de la tabla `alumnos`](#esquema-de-la-tabla-alumnos)
-- [Estructura del proyecto](#estructura-del-proyecto)
 - [Autor](#autor)
 
 ---
@@ -75,14 +74,6 @@ Definida en [`creacion.sql`](creacion.sql):
 El script incluye además un **trigger de `TRIM`** y varios `INSERT` de prueba (válidos e
 inválidos) para ejercitar las restricciones.
 
-## Estructura del proyecto
-
-```text
-sistema_escolar/
-├── generador.html       # Interfaz del generador
-├── js/functions.js      # Listas de nombres y lógica de generación/descarga
-└── creacion.sql         # Tabla alumnos, trigger y datos de prueba
-```
 
 ## Autor
 
